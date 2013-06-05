@@ -1,7 +1,6 @@
-<? /* version 1.1
+<? /* version 1.1 BSD License
 Code By Andrew Jackson
 Adapted From Dan Billeci
-dabilleci@hotmail.com
 	
 USAGE:
 echo bar128( "MyBarCode123" [,Height In Pixels] );	/// PRINTS HTML IMG TABLE OF THE CODE
